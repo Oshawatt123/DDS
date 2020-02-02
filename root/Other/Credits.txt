@@ -1,0 +1,28 @@
+Team DDS - Dan DID Sleep
+Comprised of:
+
+Lewis Arnold - Programming
+Daniel Bailey - Programming
+Will Pritchatt - Programming
+Jack Gilmour - Design
+Charlotte Spurgeon - Design
+Nathan Hessey - Design
+
+
+External Resources:
+
+Main Menu Music :- ShadyDave, Expressions of the mind
+https://freesound.org/people/ShadyDave/sounds/325647/
+
+GamePlay Music :- BoxCat Games, Passing Time
+https://freemusicarchive.org/music/BoxCat_Games
+
+
+Repair Sound :- blukotek, hammer v4
+https://freesound.org/people/blukotek/sounds/337813/
+
+Ping Sound :- edsward, ping
+https://freesound.org/people/edsward/sounds/341871/
+
+Disaster Sound :- JomelleJager, Alarm 1
+https://freesound.org/people/JomelleJager/sounds/248211/
